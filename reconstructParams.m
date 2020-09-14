@@ -6,7 +6,7 @@ version = 'V4'; % 'sdr'
 scanMode = 'Bscan'; %'speckVar'; % 'Bscan', '3D'
 
 %% I/O parameters
-inputFolder = '/';
+inputFolder = 'in/';
 outputFolder = 'out/';
 saveBuffers = 1; % needed for creating 3D and analyzing 2D
 savePng = 1; % needed for saving png figures during processing

@@ -1,6 +1,6 @@
 clc ;clear; close all
 tic
-run reconstructParams_2D
+run reconstructParams
 
 %% Run over files
 for fileInd = fileStartInd:1:length(filesToRun)
